@@ -5,47 +5,6 @@ Each image has been pre-analyzed by an AI algorithm called [pypy-agender](https:
 
 Please star⭐ the repo if you like what you see😊.
 
-## 💻 Installation and Usage
-
-### [Click here to visit the website version](https://adityar224.github.io/Random-Face-Generator/#/)
-
-### Android
-
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="250">](https://play.google.com/store/apps/details?id=com.aditya.random_face_generator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
- (or)
-
- [<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png" width="250">](https://www.amazon.com/gp/product/B09ZBGJR9G)
- (or)
-
- [![Download apk](https://img.shields.io/badge/Download-apk-green)](https://github.com/adityar224/Random-Face-Generator/releases/download/3.0.0/RFG-Android-3.0.0.apk)
-
-### Linux
-
-#### Ubuntu
-- [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/random-face-generator)
-
-  (or)
-
-    ```bash 
-    sudo snap install random-face-generator
-    ```
-
-- Launch from the app launcher or the installed apps list
-
-  (or)
-
-  ```bash
-  random-face-generator
-  ```
-
-### Windows
-[![Download exe](https://img.shields.io/badge/Download-exe-blue)](https://github.com/adityar224/Random-Face-Generator/releases/download/3.0.0/RFG-Windows-3.0.0.exe)
-
-### Mac Os
-[![Download dmg](https://img.shields.io/badge/Download-dmg-lightgrey)](https://github.com/adityar224/Random-Face-Generator/releases/download/2.1.0/RFG-Macos-2.1.0.dmg)
-
-### Ios
-[![Download ipa](https://img.shields.io/badge/Download-ipa-yellow)](https://github.com/adityar224/Random-Face-Generator/releases/download/2.1.0/RFG-Ios-2.1.0.ipa)
 
 ## ✨ Features
 
@@ -84,13 +43,3 @@ Please star⭐ the repo if you like what you see😊.
 | [**download**](https://pub.dev/packages/download) | For downloading the image |
 | [**path_provider**](https://pub.dev/packages/path_provider) | For getting the path to download the image |
 | [**flutter_native_splash**](https://pub.dev/packages/flutter_native_splash) | To show the splash screen |
-
-## 🤓 Author
-
-**[Aditya R](https://github.com/adityar224)**
-
-## 🔖 LICENSE
-[MIT LICENSE](https://github.com/adityar224/Random-Face-Generator/blob/master/LICENSE)
-
-Copyright (c) 2022
-**[Aditya R](https://github.com/adityar224)**
